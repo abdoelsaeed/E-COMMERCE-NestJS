@@ -88,6 +88,16 @@ E-commerce_NestJS/
 
 ---
 
+## 🗺️ Database ER Diagram
+
+The following diagram illustrates the relationships between the main entities (models) in the E-commerce system:
+
+![ER Diagram](./docs/er-diagram.png)
+
+This ER diagram helps visualize how users, products, orders, carts, reviews, and other entities are connected, making it easier to understand and extend the backend architecture.
+
+---
+
 ## 📖 API Documentation
 
 Interactive API docs available via Swagger:
