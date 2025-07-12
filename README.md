@@ -92,7 +92,7 @@ E-commerce_NestJS/
 
 The following diagram illustrates the relationships between the main entities (models) in the E-commerce system:
 
-![ER Diagram](./docs/er-diagram.png)
+![ER Diagram](./Untitled%20diagram%20_%20Mermaid%20Chart-2025-07-12-034641.png)
 
 This ER diagram helps visualize how users, products, orders, carts, reviews, and other entities are connected, making it easier to understand and extend the backend architecture.
 
