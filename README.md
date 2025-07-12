@@ -132,7 +132,7 @@ npm run start:dev
 ```
 
 ### 5. Access Swagger Docs
-- Open [http://localhost:3000/api](http://localhost:3000/api)
+- Open [http://localhost:3000/api/docs](http://localhost:3000/api/docs)
 
 ---
 
@@ -216,9 +216,9 @@ This project is licensed under the MIT License.
 ---
 
 ## 📬 Contact
-- **Author:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Author:** Abdelrahman Mohamed Elsaeed
+- **Email:** abdoelsaeed290@gmail.com
+- **GitHub:** [abdoelsaeed](https://github.com/abdoelsaeed)
 
 ---
 
