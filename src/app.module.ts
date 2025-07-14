@@ -17,6 +17,7 @@ import { ProductModule } from './product/product.module';
 import { ReviewModule } from './review/review.module';
 import { CartModule } from './cart/cart.module';
 import { OrderModule } from './order/order.module';
+import { UploadFilesModule } from './upload-files/upload-files.module';
 
 
 @Module({
@@ -56,7 +57,9 @@ import { OrderModule } from './order/order.module';
     ReviewModule,
     CartModule,
     OrderModule,
+    UploadFilesModule,
   ],
   controllers: [],
+  providers: [],
 })
 export class AppModule {}
